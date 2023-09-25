@@ -1,0 +1,53 @@
+table {
+    margin: 10px 20px 10px 20px;
+  }
+  
+
+  body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  header {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  a:hover {
+    color: #000;
+  }
+  
+  .btn {
+    border-radius: 0;
+  }
+  
+  .btn-light {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .btn-light:hover {
+    background-color: #ccc;
+    color: #000;
+  }
+  
+  .carousel-inner {
+    max-height: 100%;
+  }
+  
+  .carousel-item {
+    max-height: 100%;
+  } 
+  
+  .carousel-item img {
+    object-fit:fill;
+  } 
